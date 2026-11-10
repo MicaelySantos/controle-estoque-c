@@ -1,0 +1,15 @@
+
+# Arquivos executaveis
+*.exe
+*.o
+*.obj
+
+# Dados gerados pelo programa
+*.dat
+
+# Arquivos de depuracao
+*.pdb
+*.ilk
+
+# Configuracoes locais do VS Code
+.vscode/
